@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - ShopX</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="/Home/Index">
+                    <img src="~/Images/Logo.jpg" width="50" height="50" alterative="LOGO">
+                </a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("iPhone ", "IPhone", "Products")</li>
+                    <li>@Html.ActionLink("iPad", "IPad", "Products")</li>
+                    <li>@Html.ActionLink("Mac", "Mac", "Products")</li>
+                    <li>@Html.ActionLink("Watch", "Watch", "Products")</li>
+                    <li>@Html.ActionLink("Accessories", "Accessories", "Products")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    <li>@Html.ActionLink("Bag", "Bag", "Carts")</li>
+                </ul>
+                @{
+                    if (TempData["CurrentUserName"] != null)
+                    {
+                        <ul class="nav navbar-nav navbar-right">
+                            <li>@Html.ActionLink("Hello " + TempData["CurrentUserName"] + "!", "Edit", "Accounts") </li>
+                            <li>@Html.ActionLink("Logout", "Logout", "Accounts")</li>
+                        </ul>
+                    }
+                    else
+                    {
+                        <ul class="nav navbar-nav navbar-right">
+                            <li>@Html.ActionLink("Register", "Register", "Accounts")</li>
+                            <li>@Html.ActionLink("Log in", "Login", "Accounts")</li>
+                        </ul>
+                    }
+                }
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>ShopX - Apple products reseller</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

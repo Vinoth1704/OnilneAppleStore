@@ -1,0 +1,375 @@
+﻿++Solution 'ShopX' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:ShopX.sln
+++ShopX
+i:{00000000-0000-0000-0000-000000000000}:ShopX
+++Properties
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\properties\
+++AssemblyInfo.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\properties\assemblyinfo.cs
+++References
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++App_Data
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\app_data\
+++App_Start
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\app_start\
+++BundleConfig.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\app_start\routeconfig.cs
+++Content
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\content\
+++bootstrap-theme.css
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\content\bootstrap-theme.min.css
+++bootstrap.css
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\content\bootstrap.css
+++bootstrap.css.map
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\content\bootstrap.css.map
+++bootstrap.min.css
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\content\bootstrap.min.css
+++Site.css
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\content\site.css
+++Controllers
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\controllers\
+++AccountsController.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\controllers\accountscontroller.cs
+++HomeController.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\controllers\homecontroller.cs
+++ProductsController.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\controllers\productscontroller.cs
+++fonts
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\fonts\
+++Images
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\
+++Logo.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\logo.jpg
+++Models
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\models\
+++EmailValidation.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\models\emailvalidation.cs
+++PasswordValidation.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\models\passwordvalidation.cs
+++ProductViewModel.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\models\productviewmodel.cs
+++ShopX.edmx
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\models\shopx.edmx
+++ShopX.Context.tt
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\models\shopx.context.tt
+++ShopX.Designer.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\models\shopx.designer.cs
+++ShopX.edmx.diagram
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\models\shopx.edmx.diagram
+++ShopX.tt
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\models\shopx.tt
+++Account.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\models\account.cs
+++Cart.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\models\cart.cs
+++Product.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\models\product.cs
+++ShopX.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\models\shopx.cs
+++Scripts
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\scripts\
+++bootstrap.js
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\scripts\bootstrap.js
+++bootstrap.min.js
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\scripts\modernizr-2.8.3.js
+++Views
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\
+++Accounts
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\accounts\
+++Admin.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\accounts\admin.cshtml
+++Delete.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\products\delete.cshtml
+++Details.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\products\details.cshtml
+++Edit.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\products\edit.cshtml
+++Login.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\accounts\login.cshtml
+++Register.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\accounts\register.cshtml
+++Home
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\home\
+++About.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\home\about.cshtml
+++Contact.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\home\contact.cshtml
+++Index.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\home\index.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\products\index.cshtml
+++Products
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\products\
+++Accessories.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\products\accessories.cshtml
+++Create.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\products\create.cshtml
+++Home.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\products\home.cshtml
+++IPad.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\products\ipad.cshtml
+++IPhone.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\products\iphone.cshtml
+++Mac.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\products\mac.cshtml
+++Watch.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\products\watch.cshtml
+++Shared
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\shared\
+++_AdminLayout.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\shared\_adminlayout.cshtml
+++_Layout.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+++Error.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\shared\error.cshtml
+++_ViewStart.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\_viewstart.cshtml
+++Web.config
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\web.config
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\web.config
+++favicon.ico
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\favicon.ico
+++Global.asax
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\global.asax
+++packages.config
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\packages.config
+++Antlr3.Runtime
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++EntityFramework
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++EntityFramework.SqlServer
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.AspNet.Identity.Core
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.AspNet.Identity.EntityFramework
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.AspNet.Identity.Owin
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.AspNetCore.Cryptography.Internal
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.AspNetCore.Cryptography.KeyDerivation
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.Bcl.AsyncInterfaces
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.CSharp
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.Extensions.DependencyInjection
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.Extensions.DependencyInjection.Abstractions
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.Extensions.Identity.Core
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.Extensions.Logging
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.Extensions.Logging.Abstractions
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.Extensions.Options
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.Extensions.Primitives
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.IdentityModel.JsonWebTokens
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.IdentityModel.Logging
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.IdentityModel.Protocol.Extensions
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.IdentityModel.Tokens
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.Owin
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.Owin.Security
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.Owin.Security.Cookies
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.Owin.Security.OAuth
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Microsoft.Web.Infrastructure
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Newtonsoft.Json
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++Owin
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Buffers
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.ComponentModel.Annotations
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.ComponentModel.DataAnnotations
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Configuration
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Core
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Data
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Data.DataSetExtensions
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Diagnostics.DiagnosticSource
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Drawing
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.EnterpriseServices
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.IdentityModel.Tokens.Jwt
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Memory
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Net.Http
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Net.Http.WebRequest
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Numerics
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Numerics.Vectors
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Runtime.CompilerServices.Unsafe
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Runtime.Serialization
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Security
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Threading.Tasks.Extensions
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.ValueTuple
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Web
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Web.Abstractions
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Web.ApplicationServices
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Web.DynamicData
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Web.Entity
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Web.Extensions
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Web.Helpers
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Web.Mvc
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Web.Optimization
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Web.Razor
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Web.Routing
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Web.Services
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Web.WebPages
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Web.WebPages.Deployment
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Web.WebPages.Razor
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Xml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++System.Xml.Linq
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++WebGrease
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:
+++glyphicons-halflings-regular.eot
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\fonts\glyphicons-halflings-regular.woff
+++ShopX.Context.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\models\shopx.context.cs
+++Global.asax.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\global.asax.cs
+++Web.Debug.config
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\web.debug.config
+++Web.Release.config
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\web.release.config
+++Carts
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\carts\
+++CartsController.cs
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\controllers\cartscontroller.cs
+++Show.cshtml
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\views\carts\show.cshtml
+++01-65.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\01-65.jpg
+++download.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\download.jpg
+++download.png
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\download.png
+++Home iPad.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\home ipad.jpg
+++Home iPhone D.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\home iphone d.jpg
+++Home iPhone.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\home iphone.jpg
+++Home Watch.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\home watch.jpg
+++iPad Display.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\ipad display.jpg
+++iPad Pro Display.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\ipad pro display.jpg
+++iPad.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\ipad.jpg
+++iPhone 11.jpeg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\iphone 11.jpeg
+++iPhone 13 Pro Cam.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\iphone 13 pro cam.jpg
+++iPhone 13 Pro Cam1.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\iphone 13 pro cam1.jpg
+++iPhone 13 Pro roll.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\iphone 13 pro roll.jpg
+++iPhone x.jpeg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\iphone x.jpeg
+++Iphone XR.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\iphone xr.jpg
+++iPhone-12-main-1024x660.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\iphone-12-main-1024x660.jpg
+++MacBook Display.png
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\macbook display.png
+++MacBook Pro 16.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\macbook pro 16.jpg
+++Watch 3.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\watch 3.jpg
+++Watch 7.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\watch 7.jpg
+++Watch Display Face.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\watch display face.jpg
+++Watch Display.jpg
+i:{bb11b2f9-a09b-4cf4-852f-beeb44164172}:e:\office\final\shopx\images\watch display.jpg

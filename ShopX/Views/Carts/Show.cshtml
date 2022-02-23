@@ -1,0 +1,26 @@
+﻿@model IEnumerable<ShopX.Models.Cart>
+
+@{
+    ViewBag.Title = "Bag";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Bag</h2>
+@foreach (var product in Model)
+{    
+        <div class="col-md-4">
+            <div class="col-md-8" style="text-align: center">
+                <img src="@Url.Content(product.Product.ImagePath)" width="250px" height="250px" />  
+                <h3>@product.Product.ProductName</h3>
+                <ul style="font-size:13px">
+                    ₹@product.Product.Price
+                </ul>
+                <div class="description-btn">
+                    <form action="@Url.Action("RemoveFromCart", "Carts")">
+                        <button type="submit" class="remove-btn btn btn-danger" value="@product.ProductID" name="ProductID">Remove</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+ }
+

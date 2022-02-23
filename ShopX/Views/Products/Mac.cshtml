@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Mac";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Mac</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <div class="container">
+            <h2 class="text-center" style="font-size:20px; font-family:Arial">Which Mac NoteBook is right for you?</h2>
+            @foreach (var item in Model)
+            {
+                if (item.CategoryName == "Mac")
+                {
+                    <div class="col-md-4">
+                        <div class="col-md-8" style="text-align: center">
+                            <img src="@Url.Content(@item.ImagePath)" width="250px" height="250px" />
+                            <ul style="font-size:16px">
+                                @item.Description
+                            </ul>
+                            <ul>
+                                <h3>@item.ProductName</h3>
+                            </ul>
+                            <ul style="font-size:13px">
+                                ₹@item.Price
+                            </ul>
+                            <ul>
+                                @*<form action="@Url.Action("BuyConfirmation", "Products")">
+                                    <button type="submit" class="btn btn-primary " value="@item.ProductID" name="bookId">Buy</button>
+                                </form>*@
+                                <form action="@Url.Action("AddToCart", "Products")">
+                                    <input type="hidden" name="ProductID" value="@item.ProductID" />
+                                    <button type="submit" class="btn btn-primary">Add to cart</button>
+                                </form>
+                            </ul>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </dl>
+</div>
+
